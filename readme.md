@@ -1,8 +1,8 @@
-# CI Demo Project
+# CICD Demo Project
 
 ## Brief
 
-This is a demo repository to support a lesson on Continuous Integration.
+This is a demo repository to support a lesson on CICD.
 
 ## How to run the project
 
